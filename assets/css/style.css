@@ -1,0 +1,35 @@
+header {
+    text-align: right;
+    background: maroon;
+    border-bottom: 13px pink solid;
+}
+
+hr {
+    border:pink 1px solid;
+}
+
+div {
+    h
+}
+
+.ul {
+    display: inline;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+
+.main {
+    text-align:center;
+}
+
+#main1 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+.bottom-bit {
+    background-color: pink;
+    opacity: 60%;
+    text-align:center;
+}
